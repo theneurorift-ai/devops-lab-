@@ -15,7 +15,7 @@ jobs:
 
   build:
     # Use a fresh Ubuntu virtual machine for each run
-    runs-on: ubuntu-lates
+    runs-on: ubuntu-latest
 
     steps:
 
